@@ -8,3 +8,15 @@ p{
     text-align: center;
     color: pink;
 }
+.fig1, .fig2, .fig3 {
+    width: 30%;
+    height: 160px;
+    border: 1px solid #639aec;
+    background: red;
+    display: inline-block;
+    box-align: center;
+}
+fig1, fig2, fig3, img {
+    width: 100%;
+
+}
