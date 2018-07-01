@@ -1,9 +1,10 @@
 body{
     background: #639aec;
-    color: rgba(012, 567, 333, .8);
+    color: red;
 }
 p{
-    font-size: 10em;
+    font-size: 5em;
     font-style: italic;
     text-align: center;
+    color: pink;
 }
